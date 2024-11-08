@@ -32,3 +32,21 @@
 
     7/ Design a blockchain-based education platform that gamifies learning and provides micro-scholarships through DeFi protocols.
 <detail/>
+
+
+<summary>XRP related problems : <summary\>
+<detail>
+    Develop a system using the XRP Ledger to create and manage tokenized carbon credits, enabling transparent and efficient trading of environmental offsets.
+
+    Design a solution that leverages XRP's energy efficiency to create a sustainable reward system for individuals and businesses reducing their carbon footprint12.
+
+    Create a decentralized application on the XRP Ledger that facilitates and tracks investments in renewable energy projects, using XRP for transactions and smart contracts5.
+
+    Build a supply chain tracking system on the XRP Ledger that monitors and verifies the environmental impact of products, from raw materials to end consumers1.
+
+    Develop a gamified platform using XRP to incentivize and reward sustainable practices in daily life, such as recycling, using public transportation, or reducing energy consumption2.
+
+    Create a decentralized autonomous organization (DAO) on the XRP Ledger focused on funding and managing community-led environmental conservation projects, using XRP for governance and project financing5.
+
+    Design a system that uses XRP and the XRP Ledger to tokenize and trade renewable energy credits, promoting investment in clean energy projects and facilitating a more efficient green energy market
+<detail\>
